@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC|Leckerli+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC|Leckerli+One|Playball&display=swap');
+
+
+body {
+    /* background-color: red; */
+    background-image: url(images/piano-2592963_960_720.jpg);
+    background-size: cover;
+    background-repeat: none;
+}
+    
+
+.content {
+margin-top: 80px;
+text-align: center;
+height: 400px;
+
+
+}
+
+button {
+height: 100%;
+width: 80px;
+font-size: 40px;
+font-family: 'Bowlby One SC', cursive;
+color: black;
+border: black solid;
+background-color: white;
+
+}
+
+p {
+    padding-bottom: 50px;
+    font-size: 80px;
+    font-family: 'Playball', cursive;
+}
