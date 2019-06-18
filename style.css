@@ -4,9 +4,10 @@
 
 body {
     /* background-color: red; */
-    background-image: url(images/piano-2592963_960_720.jpg);
+    background-image: url("images/piano-2592963_960_720.jpg");
     background-size: cover;
-    background-repeat: none;
+    height: 100vh;
+    background-repeat: no-repeat;
 }
     
 
